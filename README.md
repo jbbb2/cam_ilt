@@ -4,7 +4,7 @@ The cam_ilt package bundles a subset of my PhD work at the university of Cambrid
 
 In its current form, it covers different regularization methods including L1, L2 and MTGV to tackle the inverse problems of interest. The package also comes with fully automated methods for regularization/hyperparameter parameter optimization employing generalized cross-validation (GCV), the Butler-Reeds-Dawson method (BRD), the balancing principle or a combination of them. 
 
-For a more detailed documentation/package tutorial, check out the cam_ilt git repo at https://github.com/jbbb2/cam_ilt
+For a more detailed documentation/package tutorial, check out the cam_ilt git repo at https://github.com/jbbb2/cam_ilt or the package wiki at https://github.com/jbbb2/cam_ilt/wiki
 
 If you make use of the package please cite the following references: 
 https://doi.org/10.48550/arXiv.2311.11442
