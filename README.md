@@ -1,6 +1,6 @@
 # `cam_ilt`
 
-The cam_ilt package bundles a subset of my PhD work at the university of Cambridge. It mostly concerns the inverse problems commonly enquired in the case of magnetic resonance (MR) correlation or exchange experiments. However, the package also includes an option for custom kernels, hence the package could also be used for non-MR related inverse problems. 
+The cam_ilt package bundles a subset of my PhD work at the university of Cambridge. It mostly concerns the inverse problems commonly encountered in the case of magnetic resonance (MR) correlation or exchange experiments. However, the package also includes an option for custom kernels, hence the package could also be used for non-MR related inverse problems. 
 
 In its current form, it covers different regularization methods including L1, L2 and MTGV to tackle the inverse problems of interest. The package also comes with fully automated methods for regularization/hyperparameter parameter optimization employing generalized cross-validation (GCV), the Butler-Reeds-Dawson method (BRD), the balancing principle or a combination of them. 
 
